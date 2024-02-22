@@ -4,6 +4,33 @@
   
   
   <entry>
+    <title>hexo部署</title>
+    <link href="/2024/02/22/hexo%E9%83%A8%E7%BD%B2/"/>
+    <url>/2024/02/22/hexo%E9%83%A8%E7%BD%B2/</url>
+    
+    <content type="html"><![CDATA[<p>基于个人知识积累和记录，同时为了便于后续的温故知新，想通过搭建个人博客的方式做相应记录。转了圈发现hexo是一个不错的方案。</p>]]></content>
+    
+    
+    <categories>
+      
+      <category>技术</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>部署</tag>
+      
+      <tag>教程</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>Hello World</title>
     <link href="/2024/02/22/hello-world/"/>
     <url>/2024/02/22/hello-world/</url>
