@@ -4,6 +4,25 @@
   
   
   <entry>
+    <title>hexo 命令</title>
+    <link href="/2024/07/04/hexo-%E5%91%BD%E4%BB%A4/"/>
+    <url>/2024/07/04/hexo-%E5%91%BD%E4%BB%A4/</url>
+    
+    <content type="html"><![CDATA[<h3 id="Hexo-的一些命令"><a href="#Hexo-的一些命令" class="headerlink" title="Hexo 的一些命令"></a>Hexo 的一些命令</h3><ul><li>生成静态文件：<code>hexo g</code>；</li><li>清空静态文件：<code>hexo cl</code>；</li><li>在本地运行：<code>hexo s</code>；</li><li>部署到网站：<code>hexo d</code>；</li><li>生成静态文件并部署到网站：<code>hexo d -g</code> 或 <code>hexo g -d</code>；</li><li>创建新文章：<code>hexo new &lt;file&gt;</code>。</li></ul>]]></content>
+    
+    
+    
+    <tags>
+      
+      <tag>教程</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>hexo部署</title>
     <link href="/2024/02/22/hexo%E9%83%A8%E7%BD%B2/"/>
     <url>/2024/02/22/hexo%E9%83%A8%E7%BD%B2/</url>
